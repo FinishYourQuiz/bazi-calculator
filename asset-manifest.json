@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bazi-calculator/static/css/main.0a9a131b.css",
-    "main.js": "/bazi-calculator/static/js/main.208fcad7.js",
+    "main.js": "/bazi-calculator/static/js/main.d310be89.js",
     "static/js/453.e18fb3e5.chunk.js": "/bazi-calculator/static/js/453.e18fb3e5.chunk.js",
     "index.html": "/bazi-calculator/index.html",
     "main.0a9a131b.css.map": "/bazi-calculator/static/css/main.0a9a131b.css.map",
-    "main.208fcad7.js.map": "/bazi-calculator/static/js/main.208fcad7.js.map",
+    "main.d310be89.js.map": "/bazi-calculator/static/js/main.d310be89.js.map",
     "453.e18fb3e5.chunk.js.map": "/bazi-calculator/static/js/453.e18fb3e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a9a131b.css",
-    "static/js/main.208fcad7.js"
+    "static/js/main.d310be89.js"
   ]
 }
